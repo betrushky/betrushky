@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @betrushky
-- 👀 I’m interested in learn web technology.
-- 🌱 I’m currently learning python, html, css and react
-- 💞️ I’m looking to collaborate on projects that give me experience in these technologies.
+- 👀 I’m interested in learn web technology with Ruby.
+- 🌱 I’m currently working with python, bash, html, css, js, php and sql technologies.
+- 💞️ I’m looking to collaborate on projects that give me more experience.
 
 <!---
 betrushky/betrushky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
